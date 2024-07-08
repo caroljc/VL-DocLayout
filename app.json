@@ -1,0 +1,34 @@
+{
+    "id": "e131b217-4f9a-45d4-9d32-14649e7418f2",
+    "name": "VL_Doc_Layout_Extension",
+    "publisher": "Carol @ VL",
+    "version": "2.1.1.6",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+      
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "22.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "11.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}

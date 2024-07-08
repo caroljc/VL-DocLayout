@@ -1,0 +1,51 @@
+{
+    "version": "1.0.0.0",
+
+    
+    "configurations": [
+        {
+          "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Test0609", //SB260523
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": false,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    
+
+    /*
+        "configurations": [
+            {
+                "name": "VL Production BC",
+                "request": "launch",
+                "type": "al",
+                "environmentType": "Production",
+                //"startupObjectId": 22,
+                "startupObjectType": "Page",
+                "breakOnError": "All",
+                "launchBrowser": false,
+                "enableLongRunningSqlStatements": true,
+                "enableSqlInformationDebugger": true
+            }
+
+
+              "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "Test0609", //SB260523
+            "startupObjectType": "Page",
+            "breakOnError": "All",
+            "launchBrowser": false,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    */
+    ]
+}
