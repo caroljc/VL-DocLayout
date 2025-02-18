@@ -8,7 +8,7 @@
             "request": "launch",
             "type": "al",
             "environmentType": "Sandbox",
-            "environmentName": "SB020125", //SB260523
+            "environmentName": "SB070125", //SB260523
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": false,
